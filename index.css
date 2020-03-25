@@ -1,0 +1,140 @@
+html {
+    background-color: black;
+    padding: 0px;
+    margin: 0;
+    font-family: Arial;
+}
+
+body {
+    /*background-color: brown;
+    padding: 1px;
+    margin: 1px;*/
+}
+
+/*main parent*/
+.parent {
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    /*justify-content: center;*/
+}
+
+/*motto content*/
+.motto {
+    background-color: #000000;
+    padding: 0px;
+    margin: 0px;
+    font-size: 10px;
+    color: #ffffff;
+}
+
+/*navbar content*/
+.navbar {
+    background-color: #3c3c5d;
+    margin: 1px;
+    font-size: 17px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.logo {
+    background-color: #e0e0eb;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    margin: 1px;
+}
+
+.t-shirts {
+    background-color: #d0d0e1;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    margin: 1px;
+}
+
+.blog {
+    background-color: #c1c1d7;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    margin: 1px;
+}
+
+.video {
+    background-color: #b1b1cd;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    margin: 1px;
+}
+
+.manifesto {
+    background-color: #a2a2c3;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    margin: 1px;
+}
+
+.contact {
+    background-color: #9292b9;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    margin: 1px;
+}
+
+.main {
+    background-color: darkgoldenrod;
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+/*features content*/
+.features {
+    background-color: #a3a3c2;
+    margin: 5px;
+    /*width: 200px;*/
+    font-size: 17px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.follow {
+    background-color: #ff9980;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+    margin: 1px;
+}
+
+.questions {
+    background-color: #ff8566;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+    margin: 1px;
+}
+
+.some_shit {
+    background-color: #ff704d;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+    margin: 1px;
+}
+
+/*footer content*/
+.footer {
+    background-color: #000000;
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+    color: #ffffff;
+    font-size: 10px;
+}
